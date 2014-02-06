@@ -1,0 +1,2 @@
+require 'ruby-snake'
+Game.new.start
